@@ -27,3 +27,6 @@ print(food, "is also my favorite")
 animal = input("What is your favorite animal?")
 print("Your favorite animal is a " + animal)
 # the plus sign is used to concatenate strings
+
+
+# lets do some pracitce
